@@ -1,2 +1,2 @@
 ##### MiniWeather
-####### welcome to my first app，thankyou
+####### welcome to my first app，thankyou#miniWeather
